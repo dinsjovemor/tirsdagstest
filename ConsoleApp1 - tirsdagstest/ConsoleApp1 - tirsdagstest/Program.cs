@@ -10,6 +10,7 @@ namespace ConsoleApp1___tirsdagstest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hej tirsdag");
         }
     }
 }
